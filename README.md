@@ -21,7 +21,10 @@ https://imgur.com/JYGGRGN
 <img src="https://imgur.com/JYGGRGN.gif" />
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+I use a computer where I am not the sudo user. Hence, I had to do a sudo-less install for cocoapods which took quite a while. I found a tutorial on Youtube which made things easier.
+
+Time taken to complete part 2: 5 hours
 
 
 #### REQUIRED (10pts)
