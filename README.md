@@ -20,6 +20,8 @@ https://imgur.com/JYGGRGN
 
 <img src="https://imgur.com/JYGGRGN.gif" />
 
+GIF created using LICEcap
+
 ### Notes
 
 I use a computer where I am not the sudo user. Hence, I had to do a sudo-less install for cocoapods which took quite a while. I found a tutorial on Youtube which made things easier.
